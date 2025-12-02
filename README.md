@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blood Bank Management System
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
 ---
@@ -78,3 +79,6 @@ http://127.0.0.1:8000/
 Any suggestion and feedback is welcome. You can message me on facebook
 - [Contact on Facebook](https://fb.com/sumit.luv)
 - [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+=======
+# BloodBankManagement
+>>>>>>> 09a822817c89cfc040022b41faedafd7b14d6cb8
